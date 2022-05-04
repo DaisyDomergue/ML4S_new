@@ -1,2 +1,4 @@
 ./ICNALE_Spoken_Monologue_2.0_Audio
 ./ICNALE_Spoken_Monologue_2.0_Transcripts
+./ICNALE_Spoken_Monologue_2.0_Audio/*
+./ICNALE_Spoken_Monologue_2.0_Transcripts/*
