@@ -1,0 +1,24 @@
+Epoch: 1 - train loss: 1.57 - valid loss: 4.17e-06
+Epoch: 2 - train loss: 1.45e-06 - valid loss: 8.34e-07
+Epoch: 3 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 4 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 5 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 6 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 7 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 8 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 9 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 10 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 11 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 12 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 13 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 14 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 15 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 16 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 17 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 18 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 19 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch: 20 - train loss: 8.34e-07 - valid loss: 8.34e-07
+Epoch loaded: 20 - test loss: 8.34e-07
+Epoch loaded: 20 - test loss: 8.34e-07
+Epoch loaded: 20 - test loss: 8.34e-07
+Epoch loaded: 20 - test loss: 8.34e-07
